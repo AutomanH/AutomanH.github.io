@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://automanh.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://automanh.github.io/"/>
+  <updated>2022-09-11T15:46:00.294Z</updated>
+  <id>http://automanh.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://automanh.github.io/2022/09/11/hello-world/"/>
+    <id>http://automanh.github.io/2022/09/11/hello-world/</id>
+    <published>2022-09-11T15:46:00.294Z</published>
+    <updated>2022-09-11T15:46:00.294Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>typora-vue-theme�������</title>
+    <link href="http://automanh.github.io/2022/09/10/article-title/"/>
+    <id>http://automanh.github.io/2022/09/10/article-title/</id>
+    <published>2022-09-10T01:25:00.000Z</published>
+    <updated>2022-09-12T14:22:47.619Z</updated>
+    
+    
+    
+    
+    <category term="Markdown" scheme="http://automanh.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://automanh.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://automanh.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
